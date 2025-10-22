@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- ──────────────────────────────────────────────────────────────── -->
+<h2 align="center">👋 Bienvenido a mi reino digital</h2>
 
-<!--
-**juliosotelo/juliosotelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Soy <strong>Julio Sotelo</strong>, explorador en los mundos del código y la creatividad.<br>
+Estudiante en formación, aprendiendo <strong>Python 🐍</strong> y recorriendo los caminos del <strong>Front-End (HTML, CSS, JS)</strong>.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚔️ Sobre mí
+
+- 🧭 Actualmente forjando mis habilidades como desarrollador web.  
+- 📚 Ya recorrí tierras Python y ahora exploro los reinos de HTML, CSS y JavaScript.  
+- 🎯 Busco unir lógica, diseño y curiosidad para crear experiencias funcionales y atractivas.  
+- 🪄 Fan de los universos fantásticos — porque el código también tiene su propia magia.
+
+---
+
+### 🛠️ Tecnologías y aprendizajes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+| 🔍 Tema                  | Estado         |
+|--------------------------|----------------|
+| Python                   | 🟢 En marcha     |
+| HTML / CSS               | 🟡 En progreso   |
+| JavaScript básico        | 🟡 En progreso   |
+| Diseño web / UI          | 🔵 Interesado    |
+| Git / Buenas prácticas   | 🟡 Consolidando  |
+
+---
+
+### 🎯 Próximas metas
+
+- 🚀 Crear mi primer sitio web personal  
+- ⚙️ Desarrollar pequeños proyectos interactivos  
+- 🧩 Aprender frameworks modernos como React  
+- 🤖 Automatizar tareas simples con Python  
+
+---
+### 🔮 Curiosidades y frases que me inspiran
+
+> “Incluso la persona más pequeña puede cambiar el curso del futuro.” — *El Hobbit*  
+>  
+> “El caos no es un pozo. El caos es una escalera.” — *Game of Thrones*
+
+Cada línea de código, cada error, es un nuevo peldaño hacia el aprendizaje. - *Yo con IA (insomnio y ansiedad)*  
+
+---
+### 💬 Conversemos sobre...
+
+- Desarrollo web y lógica de programación  
+- Diseño, UX y creatividad  
+- Fantasía, libros y universos épicos  
+- Ciencia, filosofía o curiosidades del mundo  
+
+---
+### 🌱 Te dejo una reflexion
+
+> “No todos los que vagan están perdidos.” — *J.R.R. Tolkien*  
+
+Gracias por visitar mi perfil.  
+Sigue mi viaje digital 🌍  
+  
+<p align="center">
+  <a href="https://github.com/SoteloJulio">
+    <img src="https://komarev.com/ghpvc/?username=SoteloJulio&style=flat-square&color=green" alt="visitas"/>
+  </a>
+</p>
