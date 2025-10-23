@@ -1,8 +1,8 @@
 <!-- ──────────────────────────────────────────────────────────────── -->
-<h2 align="center">👋 Bienvenido a mi reino digital</h2>
+<h2 align="center">👋 Bienvenido</h2>
 
 <p align="center">
-Soy <strong>Julio Sotelo</strong>, explorador en los mundos del código y la creatividad.<br>
+Soy <strong>Julio Sotelo</strong>.
 Estudiante en formación, aprendiendo <strong>Python 🐍</strong> y recorriendo los caminos del <strong>Front-End (HTML, CSS, JS)</strong>.
 </p>
 
@@ -11,10 +11,8 @@ Estudiante en formación, aprendiendo <strong>Python 🐍</strong> y recorriendo
 ### ⚔️ Sobre mí
 
 - 🧭 Actualmente forjando mis habilidades como desarrollador web.  
-- 📚 Ya recorrí tierras Python y ahora exploro los reinos de HTML, CSS y JavaScript.  
+- 📚 Ya recorrí Python y ahora exploro HTML, CSS y JavaScript.  
 - 🎯 Busco unir lógica, diseño y curiosidad para crear experiencias funcionales y atractivas.  
-- 🪄 Fan de los universos fantásticos — porque el código también tiene su propia magia.
-
 ---
 
 ### 🛠️ Tecnologías y aprendizajes
@@ -56,18 +54,17 @@ Cada línea de código, cada error, es un nuevo peldaño hacia el aprendizaje. -
 ---
 ### 💬 Conversemos sobre...
 
-- Desarrollo web y lógica de programación  
-- Diseño, UX y creatividad  
-- Fantasía, libros y universos épicos  
-- Ciencia, filosofía o curiosidades del mundo  
+- Desarrollo web y lógica de programación.  
+- Diseño, UX y creatividad.  
+- Fantasía, libros y universos épicos.  
+- Ciencia, filosofía o curiosidades del mundo.  
 
 ---
 ### 🌱 Te dejo una reflexion
 
 > “No todos los que vagan están perdidos.” — *J.R.R. Tolkien*  
 
-Gracias por visitar mi perfil.  
-Sigue mi viaje digital 🌍  
+Gracias por visitar mi perfil.    
   
 <p align="center">
   <a href="https://github.com/SoteloJulio">
